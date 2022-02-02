@@ -18,4 +18,4 @@
 LucasAlmeid4/LucasAlmeid4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-✨Apaixonado por tecnologia, buscando fazer da criatividade a inovação: Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo...✨
+✨Apaixonado por tecnologia, buscando fazer da criatividade a inovação✨
