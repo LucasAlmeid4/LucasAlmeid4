@@ -1,7 +1,7 @@
 👋 Olá, Eu sou Lucas Almeida
 - 🔭 Atualmente procuro por uma oportunidade como desenvolvedor full stack junior
 - 🎓 Me preparando para cursar Engenharia da Computação
-- 🌱 Estudando Java e o universo Javascrip(ReactJS, NodeJS)
+- 🌱 Estudando Java e o universo Javascript(ReactJS, NodeJS)
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
 
 <div align="center">
