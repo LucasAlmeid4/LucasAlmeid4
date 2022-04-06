@@ -4,6 +4,7 @@
 - 🎓 Me preparando para cursar Engenharia da Computação
 - 🌱 Estudando Java e o universo Javascript(ReactJS, NodeJS)
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
+- 🎯 Pontos fortes: Backend -> Rest Api com Java(Spring) - Frontend -> ReactJs com css e/ou bootstrap
 
 <div align="center">
   <a href="https://github.com/LucasAlmeid4">
