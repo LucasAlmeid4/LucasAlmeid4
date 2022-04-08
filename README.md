@@ -5,7 +5,8 @@
 - 🌱 Estudando com foco em Java e o universo Javascript(ReactJS, NodeJS)
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
 - 🎯 Pontos fortes: Backend -> Rest Api com Java(Spring) - Frontend -> ReactJs com css e/ou bootstrap
-- 🧩 Aprendizado. Cursos em progresso, interesses e cursos como fontes de consulta:
+- 🤔 Curiosidade: Documento tudo que aprendo e espalho "postits" com minhas dificuldades para lembrar
+- 🧩 Aprendizado --> Cursos em progresso, interesses e cursos como fontes de consulta:
 
     - NodeJs: https://www.udemy.com/course/nodejs-the-complete-guide/
     - Spring Framework: https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
