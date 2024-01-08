@@ -1,18 +1,9 @@
 # 👋  Olá, Eu sou Lucas Almeida
 
 - 🔭 System engineer
-- 🎓 Me preparando para cursar Engenharia da Computação
-- 🌱 Estudando com foco em Java e o universo Javascript(ReactJS, NodeJS)
+- 🎓 Me Cursando Análise e Desenvolvimento de Sistemas e Ciências Exatas
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
 - 🎯 Pontos fortes: Backend -> Rest Api com Java(Spring) - Frontend -> ReactJs com css e/ou bootstrap
-- 🤔 Curiosidade: Documento tudo que aprendo e espalho "postits" com minhas dificuldades para lembrar
-- 🧩 Aprendizado --> Cursos em progresso, interesses e cursos como fontes de consulta:
-
-    - NodeJs: https://www.udemy.com/course/nodejs-the-complete-guide/
-    - Spring Framework: https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
-    - Next.js e React: https://www.udemy.com/course/react-redux-pt/
-    - SQL Server, MySQL, Oracle, T-SQL e PLSQL: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
-    
 
 <div align="center">
   <a href="https://github.com/LucasAlmeid4">
