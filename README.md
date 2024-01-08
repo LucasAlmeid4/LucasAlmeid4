@@ -1,4 +1,4 @@
-# 👋  Olá, Eu sou Lucas Almeida <img align="center" alt="React" height="50" width="50" src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
+# 👋  Olá, Eu sou Lucas Almeida <img align="center" alt="React" height="50" width="50" src="">
 
 - 🔭 System engineer
 - 🎓 Me preparando para cursar Engenharia da Computação
