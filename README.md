@@ -1,4 +1,4 @@
-# 👋  Olá, Eu sou Lucas Almeida <img align="center" alt="React" height="50" width="50" src="">
+# 👋  Olá, Eu sou Lucas Almeida
 
 - 🔭 System engineer
 - 🎓 Me preparando para cursar Engenharia da Computação
