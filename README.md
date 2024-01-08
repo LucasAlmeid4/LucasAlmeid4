@@ -3,8 +3,7 @@
 - 🔭 System engineer
 - 🎓 Me Cursando Análise e Desenvolvimento de Sistemas e Ciências Exatas
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
-- 🎯 Pontos fortes: Backend -> Rest Api com Java(Spring) - Frontend -> ReactJs com css e/ou bootstrap
-
+  
 <div align="center">
   <a href="https://github.com/LucasAlmeid4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlmeid4&theme=blue-green"/>
