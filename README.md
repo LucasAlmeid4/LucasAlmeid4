@@ -1,7 +1,7 @@
 # 👋  Olá, Eu sou Lucas Almeida
 
 - 🔭 System engineer
-- 🎓 Me Cursando Análise e Desenvolvimento de Sistemas e Ciências Exatas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas e Ciências Exatas
 - 📫 Contate me no E-mail: LucasDantas700@gmail.com
   
 <div align="center">
